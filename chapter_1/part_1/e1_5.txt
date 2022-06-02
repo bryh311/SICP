@@ -1,0 +1,2 @@
+if the interpreter is using normal order, the program will enter an
+infinite loop. If it is using applicative order it wil return 0.

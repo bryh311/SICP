@@ -1,0 +1,14 @@
+Exercise 1.1
+10
+12
+8
+3
+6
+nothing - in Racket, may not be the case for other interpreters
+nothing - in Racket, may not be the case for other interpreters
+19
+#f
+4
+16
+6
+16
