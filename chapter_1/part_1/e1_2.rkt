@@ -1,5 +1,4 @@
 #lang sicp
-; non code answers will be posted as images of my notes
 
 (/ (+ 5
     4 (- 2
