@@ -18,7 +18,5 @@ compiled/
 # Dependency tracking files
 *.dep
 
-# my personal scratches
-scratches
-
 # End of https://www.toptal.com/developers/gitignore/api/racket
+scratches.rkt
